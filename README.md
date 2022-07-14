@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adefolarinwa
+- 👋 Hi, I’m @Aasa Damilare
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning IBM Cognos Analytics
 - 💞️ I’m looking to collaborate on Data Science Projects
